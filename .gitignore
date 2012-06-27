@@ -1,6 +1,14 @@
-# Build Folders (you can keep bin if you'd like, to store dlls and pdbs)
-bin
-obj
-
-# mstest test results
-TestResults
+[Tt]est[Rr]esult*
+[Bb]in/
+[Oo]bj/
+!/lib
+*.user
+*.suo
+_ReSharper.*
+*.sln.cache
+*.xap
+*.vspcc
+*.vscc 
+*.vssscc
+*.vspscc
+*.scc
